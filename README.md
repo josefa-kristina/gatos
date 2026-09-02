@@ -16,12 +16,12 @@ Proyecto de reconocimiento de gestos, utilizando Python y MediaPipe. Realizado t
 | --- | --- | --- | --- |
 | 1 | Default | cómo se activa | ![Default](./bjorkReact/bjork.jpg) |
 | 2 | Shhh | cómo se activa | ![Shh](./bjorkReact/bjorkShhh.jpg) ![Shh](./bjorkReact/bjorkShhh2.jpg) ![Shh](./bjorkReact/bjorkShhh3.gif) |
-| 3 | middleFinger | cómo se activa | imagen |
-| 4 | sixSeven | cómo se activa | imagen |
-| 5 | debut | cómo se activa | imagen |
-| 6 | sus | cómo se activa | imagen |
-| 7 | kitty | cómo se activa | imagen |
-| 8 | rawr | cómo se activa | imagen |
+| 3 | middleFinger | cómo se activa | ![middleFinger](./bjorkReact/bjorkMiddleFinger.jpg) |
+| 4 | sixSeven | cómo se activa | ![bjork67](./bjorkReact/bjork67.jpg) |
+| 5 | debut | cómo se activa | ![debut](./bjorkReact/bjorkDebutHealing.jpg) ![debut](./bjorkReact/bjorkDebutRacoon.jpg)  |
+| 6 | sus | cómo se activa | ![sus](./bjorkReact/bjorkSuspicious.jpg) |
+| 7 | kitty | cómo se activa | ![kitty](./bjorkReact/bjorkCat.jpg) ![kitty](./bjorkReact/bjorkCat2.jpg) |
+| 8 | rawr | cómo se activa | ![rawr](./bjorkReact/bjorkRAWR.gif) |
 - [carpeta de imágenes](./bjorkReact)
 
 - [video](./)
