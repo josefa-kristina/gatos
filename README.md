@@ -3,7 +3,6 @@
 ## tarea-02
 
 - **Josefa Araya**
-- **Integrante-2**
 
 - Asignatura: Dispositivos Periféricos y Plataformas para la Interacción Digital **DIS9087**
 
@@ -15,13 +14,14 @@ Proyecto de reconocimiento de gestos, utilizando Python y MediaPipe. Realizado t
 
 | # | *Nombre* | *Cómo se activa* | *imagen* |
 | --- | --- | --- | --- |
-| 1 | nombre | cómo se activa | imagen |
-| 2 | nombre | cómo se activa | imagen |
-| 3 | nombre | cómo se activa | imagen |
-| 4 | nombre | cómo se activa | imagen |
-| 5 | nombre | cómo se activa | imagen |
-| 6 | nombre | cómo se activa | imagen |
-
-- [carpeta de imágenes](./nombreCarpeta)
+| 1 | Default | cómo se activa | ![Default](./bjorkReact/bjork.jpg) |
+| 2 | Shhh | cómo se activa | ![Shh](./bjorkReact/bjorkShhh.jpg) ![Shh](./bjorkReact/bjorkShhh2.jpg) ![Shh](./bjorkReact/bjorkShhh3.gif) |
+| 3 | middleFinger | cómo se activa | imagen |
+| 4 | sixSeven | cómo se activa | imagen |
+| 5 | debut | cómo se activa | imagen |
+| 6 | sus | cómo se activa | imagen |
+| 7 | kitty | cómo se activa | imagen |
+| 8 | rawr | cómo se activa | imagen |
+- [carpeta de imágenes](./bjorkReact)
 
 - [video](./)
