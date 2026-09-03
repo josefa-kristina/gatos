@@ -1,11 +1,10 @@
-# Nombre del proyecto
-
-## tarea-02
-
-- **Josefa Araya**
+# Cámara detectora de gestos, versión Bjork.
 
 - Asignatura: Dispositivos Periféricos y Plataformas para la Interacción Digital **DIS9087**
 
+- **Josefa Araya**
+
+## tarea-02
 Proyecto de reconocimiento de gestos, utilizando Python y MediaPipe. Realizado tomando como referencia este repositorio:
 
 - <https://github.com/catherpiee/meowmeowcatcam>
@@ -15,7 +14,7 @@ Proyecto de reconocimiento de gestos, utilizando Python y MediaPipe. Realizado t
 | # | *Nombre* | *Cómo se activa* | *imagen* |
 | --- | --- | --- | --- |
 | 0 | default | Sin gesto | ![Default](./bjorkReact/bjork.jpg) |
-| 1 | huh | Manos abiertas al lado del torso | ![Default](./bjorkReact/bjork.jpg) |
+| 1 | huh | Manos abiertas al lado del torso | ![huh](./bjorkReact/bjorkGrapes.jpeg) |
 | 2 | Shhh | Dedo índice por encima de la boca + ojos medio cerraods | ![Shh](./bjorkReact/bjorkShhh.jpg) ![Shh](./bjorkReact/bjorkShhh2.jpg) ![Shh](./bjorkReact/bjorkShhh3.gif) |
 | 3 | middleFinger | Dedo del medio levantado | ![middleFinger](./bjorkReact/bjorkMiddleFinger.jpg) |
 | 4 | sixSeven | Alternar las manos arriba y abajo | ![bjork67](./bjorkReact/bjork67.jpg) |
@@ -23,6 +22,10 @@ Proyecto de reconocimiento de gestos, utilizando Python y MediaPipe. Realizado t
 | 6 | sus | Ceja izquierda levantada + cabeza girada para la derecha | ![sus](./bjorkReact/bjorkSuspicious.jpg) |
 | 7 | kitty | Manos empuñadas a bajo del mentón | ![kitty](./bjorkReact/bjorkCat.jpg) ![kitty](./bjorkReact/bjorkCat2.jpg) |
 | 8 | rawr (solo en la versión web) | Abrir las manos y cerrarlas repetidamente | ![rawr](./bjorkReact/bjorkRAWR.gif) |
+
+## Proceso
+
+
 
 - [carpeta de imágenes](./bjorkReact)
 
