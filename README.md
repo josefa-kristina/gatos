@@ -15,7 +15,7 @@ Proyecto de reconocimiento de gestos, utilizando Python y MediaPipe. Realizado t
 | --- | --- | --- | --- |
 | 0 | default | Sin gesto | ![Default](./bjorkReact/bjork.jpg) |
 | 1 | huh | Manos abiertas al lado del torso | ![huh](./bjorkReact/bjorkGrapes.jpeg) |
-| 2 | Shhh | Dedo índice por encima de la boca + ojos medio cerraods | ![Shh](./bjorkReact/bjorkShhh.jpg) ![Shh](./bjorkReact/bjorkShhh2.jpg) ![Shh](./bjorkReact/bjorkShhh3.gif) |
+| 2 | Shhh | Dedo índice por encima de la boca + ojos medio cerraods | ![Shh](./bjorkReact/bjorkShhh.jpg) ![Shh](./bjorkReact/bjorkShhh2.jpg) ![Shh](./bjorkReact/bjorkShhh3.gif) (gif solo en la versión web) |
 | 3 | middleFinger | Dedo del medio levantado | ![middleFinger](./bjorkReact/bjorkMiddleFinger.jpg) |
 | 4 | sixSeven | Alternar las manos arriba y abajo | ![bjork67](./bjorkReact/bjork67.jpg) |
 | 5 | debut | Manos juntas como rezando por encima de la boca | ![debut](./bjorkReact/bjorkDebutHealing.jpg) ![debut](./bjorkReact/bjorkDebutRacoon.jpg)  |
